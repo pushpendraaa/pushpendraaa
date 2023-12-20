@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I’m a Deep Learning Engineer-Intern at ResoluteAI.<br>👯 I’m currently working on My Coding Skills.<br>🤝 Ask me about AI, you will love it.<br>🌱 Fun Fact - I am a Foodie and love Travelling.<br>
 
 
